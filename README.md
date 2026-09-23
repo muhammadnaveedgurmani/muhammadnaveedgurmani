@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.png" alt="Muhammad Naveed banner" width="100%" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2800&pause=1200&color=0D9488&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Naveed+%F0%9F%91%8B;AI%2FML+Engineer;Generative+AI+%7C+RAG+%7C+AI+Agents" alt="Typing intro" />
 
 **Building practical AI that solves real problems.**
@@ -10,6 +12,8 @@
 <a href="https://muhammadnaveed.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadnaveedgurmani&color=0D9488&style=flat" alt="Profile views" />
 
 </div>
 
@@ -57,6 +61,38 @@
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <img src="./dist/github-snake.svg" alt="Contribution snake" width="100%" />
+</picture>
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadnaveedgurmani&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🎖️ Holopin Badges
+
+<div align="center">
+
+[![Holopin badges](https://holopin.me/muhammadnaveedgurmani)](https://holopin.me/muhammadnaveedgurmani)
 
 </div>
 
